@@ -3,7 +3,7 @@
 > Gömülü Sistemler dersi için yapılmış silindirik robot kolu projesinin teknik içeriklerinin bulunduğu repo.
  <br> <br>
  
-* [Proje Raporu](https://www.google.com.tr)
+* [Proje Raporu](https://drive.google.com/file/d/1pUONPyBIgNXQW-Yuwd9WqPZjyBYRpfjK/view?usp=sharing)
  
  ### Proje Görselleri
 <p align="center">
